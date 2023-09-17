@@ -1,0 +1,113 @@
+---
+object: card
+id: ed0bdf8f-9086-4e30-8865-bb1eb55516f8
+oracle_id: 98250fad-7fd0-431e-a87e-551185d26ec1
+multiverse_ids: []
+tcgplayer_id: 67370
+cardmarket_id: 260123
+name: Zameck Guildmage
+lang: en
+released_at: '2013-01-26'
+uri: https://api.scryfall.com/cards/ed0bdf8f-9086-4e30-8865-bb1eb55516f8
+scryfall_uri: https://scryfall.com/card/pgtc/209/zameck-guildmage?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/d/ed0bdf8f-9086-4e30-8865-bb1eb55516f8.jpg?1561758383
+  normal: https://cards.scryfall.io/normal/front/e/d/ed0bdf8f-9086-4e30-8865-bb1eb55516f8.jpg?1561758383
+  large: https://cards.scryfall.io/large/front/e/d/ed0bdf8f-9086-4e30-8865-bb1eb55516f8.jpg?1561758383
+  png: https://cards.scryfall.io/png/front/e/d/ed0bdf8f-9086-4e30-8865-bb1eb55516f8.png?1561758383
+  art_crop: https://cards.scryfall.io/art_crop/front/e/d/ed0bdf8f-9086-4e30-8865-bb1eb55516f8.jpg?1561758383
+  border_crop: https://cards.scryfall.io/border_crop/front/e/d/ed0bdf8f-9086-4e30-8865-bb1eb55516f8.jpg?1561758383
+mana_cost: "{G}{U}"
+cmc: 2.0
+type_line: Creature — Elf Wizard
+oracle_text: |-
+  {G}{U}: This turn, each creature you control enters the battlefield with an additional +1/+1 counter on it.
+  {G}{U}, Remove a +1/+1 counter from a creature you control: Draw a card.
+power: '2'
+toughness: '2'
+colors:
+- G
+- U
+color_identity:
+- G
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 2a51bc89-cf7c-4c31-af17-f46bd45fef40
+set: pgtc
+set_name: Gatecrash Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/2a51bc89-cf7c-4c31-af17-f46bd45fef40
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apgtc&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pgtc?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ed0bdf8f-9086-4e30-8865-bb1eb55516f8/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A98250fad-7fd0-431e-a87e-551185d26ec1&unique=prints
+collector_number: '209'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Raymond Swanland
+artist_ids:
+- e956bacc-077d-4c12-b6bc-ba798b718af9
+illustration_id: 7b5da765-2574-4c2e-8974-c59492621662
+border_color: black
+frame: '2003'
+full_art: true
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- gameday
+edhrec_rank: 7284
+penny_rank: 7090
+prices:
+  usd: '0.60'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.43'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Zameck+Guildmage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Zameck+Guildmage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Zameck+Guildmage
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/67370?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Zameck+Guildmage&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Zameck+Guildmage&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

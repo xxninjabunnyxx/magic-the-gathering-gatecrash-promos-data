@@ -1,0 +1,116 @@
+---
+object: card
+id: d9243a56-3551-454b-ab47-95d461b471b4
+oracle_id: 34161ec4-5d99-45e6-b43c-c8d28958660a
+multiverse_ids: []
+tcgplayer_id: 67363
+cardmarket_id: 260128
+name: Treasury Thrull
+lang: en
+released_at: '2013-01-26'
+uri: https://api.scryfall.com/cards/d9243a56-3551-454b-ab47-95d461b471b4
+scryfall_uri: https://scryfall.com/card/pgtc/201%E2%98%85/treasury-thrull?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/9/d9243a56-3551-454b-ab47-95d461b471b4.jpg?1605370793
+  normal: https://cards.scryfall.io/normal/front/d/9/d9243a56-3551-454b-ab47-95d461b471b4.jpg?1605370793
+  large: https://cards.scryfall.io/large/front/d/9/d9243a56-3551-454b-ab47-95d461b471b4.jpg?1605370793
+  png: https://cards.scryfall.io/png/front/d/9/d9243a56-3551-454b-ab47-95d461b471b4.png?1605370793
+  art_crop: https://cards.scryfall.io/art_crop/front/d/9/d9243a56-3551-454b-ab47-95d461b471b4.jpg?1605370793
+  border_crop: https://cards.scryfall.io/border_crop/front/d/9/d9243a56-3551-454b-ab47-95d461b471b4.jpg?1605370793
+mana_cost: "{4}{W}{B}"
+cmc: 6.0
+type_line: Creature — Thrull
+oracle_text: |-
+  Extort (Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)
+  Whenever Treasury Thrull attacks, you may return target artifact, creature, or enchantment card from your graveyard to your hand.
+power: '4'
+toughness: '4'
+colors:
+- B
+- W
+color_identity:
+- B
+- W
+keywords:
+- Extort
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 2a51bc89-cf7c-4c31-af17-f46bd45fef40
+set: pgtc
+set_name: Gatecrash Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/2a51bc89-cf7c-4c31-af17-f46bd45fef40
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apgtc&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pgtc?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/d9243a56-3551-454b-ab47-95d461b471b4/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A34161ec4-5d99-45e6-b43c-c8d28958660a&unique=prints
+collector_number: 201★
+digital: false
+rarity: rare
+watermark: orzhov
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Lucas Graciano
+artist_ids:
+- ce98f39c-7cdd-47e6-a520-6c50443bb4c2
+illustration_id: 271df8aa-ec0d-442e-9b66-d5ff163f737c
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- datestamped
+- prerelease
+edhrec_rank: 9972
+penny_rank: 10438
+prices:
+  usd: 
+  usd_foil: '0.32'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.09'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Treasury+Thrull&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Treasury+Thrull&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Treasury+Thrull
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/67363?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Treasury+Thrull&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Treasury+Thrull&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
